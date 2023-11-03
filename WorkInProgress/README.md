@@ -22,11 +22,11 @@ Neste projeto realize as modificações apontadas pela expert a fim de criar vis
 
 ###### ESPECIALISTA
 
-![author](https://hermes.dio.me/users/author/photos/a3d71bed-2938-4df8-95e1-3d4181cad1c3.png)
+! - [author](https://hermes.dio.me/users/author/photos/a3d71bed-2938-4df8-95e1-3d4181cad1c3.png)
 
 ###### Juliana Mascarenhas
 
-Data Scientist, DIO[**](https://www.linkedin.com/in/juliana-mascarenhas-00349426/)
+Data Scientist, DIO - [**](https://www.linkedin.com/in/juliana-mascarenhas-00349426/)
 
 
 
@@ -34,13 +34,13 @@ https://web.dio.me/project/projeto-de-data-analytics-com-power-bi/learning/dca0e
 
 
 
-[**](https://web.dio.me/track/formacao-power-bi-analyst)
+ - [**](https://web.dio.me/track/formacao-power-bi-analyst)
 
 ##### Projeto de Data Analytics com Power BI
 
 **
 
-[**](https://web.dio.me/lab/projeto-de-data-analytics-com-power-bi/learning/dca0e972-4eff-4f81-9f3b-a52603a04f29)[**](https://web.dio.me/lab/projeto-de-data-analytics-com-power-bi/learning/cdec6e7a-7019-4521-9501-eb392c3f2030)
+ - [**](https://web.dio.me/lab/projeto-de-data-analytics-com-power-bi/learning/dca0e972-4eff-4f81-9f3b-a52603a04f29) - [**](https://web.dio.me/lab/projeto-de-data-analytics-com-power-bi/learning/cdec6e7a-7019-4521-9501-eb392c3f2030)
 
 <iframe id="ytc20" frameborder="0" allowfullscreen="1" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" title="Apresentação do desafio" width="100%" height="100%" src="https://www.youtube.com/embed/tNNY53vL-1U?controls=0&amp;disablekb=1&amp;enablejsapi=1&amp;fs=0&amp;iv_load_policy=3&amp;modestbranding=1&amp;showinfo=0&amp;rel=0&amp;html5=1&amp;cc_load_policy=0&amp;origin=https%3A%2F%2Fweb.dio.me&amp;widgetid=1" data-gtm-yt-inspected-13="true" style="box-sizing: inherit; max-width: none; float: none; margin: 0px; padding: 0px; border: 0px; font-style: inherit; font-variant: inherit; font-weight: inherit; font-stretch: inherit; line-height: inherit; font-family: inherit; font-optical-sizing: inherit; font-kerning: inherit; font-feature-settings: inherit; font-variation-settings: inherit; font-size: 14px; vertical-align: baseline;"></iframe>
 
@@ -67,7 +67,9 @@ auto
 - CONTEÚDOS
 - INFORMAÇÕES
 
-[Apresentação do desafio](https://web.dio.me/lab/projeto-de-data-analytics-com-power-bi/learning/dca0e972-4eff-4f81-9f3b-a52603a04f29)[Próximos passos](https://web.dio.me/lab/projeto-de-data-analytics-com-power-bi/learning/cdec6e7a-7019-4521-9501-eb392c3f2030)[Entendendo o desafio](https://web.dio.me/lab/projeto-de-data-analytics-com-power-bi/learning/9393057d-ff54-4d2a-9560-e0e06a8c046c)
+ - [Apresentação do desafio](https://web.dio.me/lab/projeto-de-data-analytics-com-power-bi/learning/dca0e972-4eff-4f81-9f3b-a52603a04f29)
+ - [Próximos passos](https://web.dio.me/lab/projeto-de-data-analytics-com-power-bi/learning/cdec6e7a-7019-4521-9501-eb392c3f2030) 
+ - [Entendendo o desafio](https://web.dio.me/lab/projeto-de-data-analytics-com-power-bi/learning/9393057d-ff54-4d2a-9560-e0e06a8c046c)
 
 
 
@@ -91,7 +93,7 @@ auto
 
  
 
-[Projeto de Data Analytics com Power BI](https://academiapme-my.sharepoint.com/:f:/g/personal/renato_dio_me/EovzCujn0JJEhT5Nm8K5_DkB9Hc8ONl2jSiHIVf35LXK4Q?e=wqvxUo)
+ - [Projeto de Data Analytics com Power BI](https://academiapme-my.sharepoint.com/:f:/g/personal/renato_dio_me/EovzCujn0JJEhT5Nm8K5_DkB9Hc8ONl2jSiHIVf35LXK4Q?e=wqvxUo)
 
  
 
